@@ -1,0 +1,19 @@
+{
+  "name": "udacitywebsiteoptimization",
+  "version": "1.0.0",
+  "description": "Project I did for my udacity course",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nantawat Laothong",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-css": "^0.1.0",
+    "gulp-html": "^0.4.7",
+    "gulp-html-minifier": "^0.1.8",
+    "gulp-imagemin": "^3.4.0",
+    "gulp-uglify": "^3.0.0"
+  }
+}
